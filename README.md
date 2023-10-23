@@ -70,6 +70,13 @@ Las citas se almacenan de forma local con la siguiente estructura
         telefonoPaciente: 98272647}
 }
 ```
+## Imagenes de la aplicación
+
+<img src="https://raw.githubusercontent.com/Dieego533/app-agenda-flutter/master/assets/images/1.JPG" width="200" /> &emsp;&emsp; <img src="https://raw.githubusercontent.com/Dieego533/app-agenda-flutter/master/assets/images/2.JPG" width="200" /> &emsp;&emsp; <img src="https://raw.githubusercontent.com/Dieego533/app-agenda-flutter/master/assets/images/5.JPG" width="200" /> &emsp;&emsp; <img src="https://raw.githubusercontent.com/Dieego533/app-agenda-flutter/master/assets/images/4.JPG" width="200" />
+
+
+
+
 
 ### La aplicación debe seguir en desarrollo para 
 - Restringir las horas de los profesionales una vez tomadas.
