@@ -1,4 +1,4 @@
-# Aplicación Mobile de Agendamiento en Flutter
+# Aplicación mobile de agendamiento en flutter
 
 ## Descripción
 
@@ -70,7 +70,7 @@ Las citas se almacenan de forma local con la siguiente estructura
         telefonoPaciente: 98272647}
 }
 ```
-## Imagenes de la aplicación
+## Imágenes de la aplicación
 
 <img src="https://raw.githubusercontent.com/Dieego533/app-agenda-flutter/master/assets/images/1.JPG" width="200" /> &emsp;&emsp; <img src="https://raw.githubusercontent.com/Dieego533/app-agenda-flutter/master/assets/images/2.JPG" width="200" /> &emsp;&emsp; <img src="https://raw.githubusercontent.com/Dieego533/app-agenda-flutter/master/assets/images/5.JPG" width="200" /> &emsp;&emsp;
 
